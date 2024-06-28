@@ -7,7 +7,7 @@ https://code.visualstudio.com/docs/cpp/config-mingw#_create-a-hello-world-app
 https://code.visualstudio.com/docs/python/python-tutorial
 3. Create .venv (https://code.visualstudio.com/docs/python/python-tutorial#_create-a-virtual-environment)
 4. Install numpy and scipy (https://code.visualstudio.com/docs/python/python-tutorial#_install-and-use-packages)
-5. Extensions (C/C++, Python etc.)
+5. Install Extensions in Vs Code (C/C++, Python etc.)
 6. Install cmake + CMake extension:
 https://cmake.org/download/
 7. Run code:
