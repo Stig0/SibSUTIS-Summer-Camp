@@ -11,6 +11,6 @@ https://code.visualstudio.com/docs/python/python-tutorial
 6. Install cmake + CMake extension:
 https://cmake.org/download/
 7. Run code:
-- Run ./lab2/main_lab2.cpp
-- Build ./lab1/CMakeLists.txt and run ./lab1/test_mult.cpp
-- Run main_python.py
+- Run ./lab2/main_lab2.cpp (Run C/C++ file)
+- Build ./lab1/CMakeLists.txt and run ./lab1/test_mult.cpp (F5)
+- Run main_python.py (Run Python file)
